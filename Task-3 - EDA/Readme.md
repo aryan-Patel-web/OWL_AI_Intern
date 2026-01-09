@@ -114,7 +114,9 @@ unzip titanic.zip
 ### Option 1: Jupyter Notebook
 ```bash
 # Start Jupyter Notebook
+
 jupyter notebook
+
 
 # Open eda_titanic.ipynb
 # Run cells sequentially (Cell > Run All)
