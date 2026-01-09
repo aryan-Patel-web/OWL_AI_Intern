@@ -122,21 +122,7 @@ jupyter notebook
 # Run cells sequentially (Cell > Run All)
 ```
 
-### Option 2: JupyterLab
-```bash
-# Start JupyterLab
-jupyter lab
 
-# Open eda_titanic.ipynb
-# Execute all cells
-```
-
-### Option 3: Google Colab
-1. Upload `eda_titanic.ipynb` to Google Colab
-2. Upload `train.csv` dataset
-3. Run all cells
-
----
 
 ## 📊 Analysis Breakdown
 
