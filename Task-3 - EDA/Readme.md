@@ -311,4 +311,3 @@ For questions or feedback about this analysis:
 
 ---
 
-**Note:** This EDA is comprehensive and covers all major aspects of exploratory data analysis. The notebook contains 34 cells with detailed comments, visualizations, and insights. Each cell focuses on a specific aspect of the analysis, making it easy to understand and follow.
