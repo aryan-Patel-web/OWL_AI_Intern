@@ -248,16 +248,16 @@ jupyter notebook
 
 ## 🎓 Skills Demonstrated
 
-- ✅ Data loading and preprocessing
-- ✅ Handling missing values
-- ✅ Descriptive statistics
-- ✅ Data visualization techniques
-- ✅ Feature engineering
-- ✅ Correlation analysis
-- ✅ Outlier detection
-- ✅ Multi-variate analysis
-- ✅ Insight generation
-- ✅ Professional documentation
+- . Data loading and preprocessing
+- . Handling missing values
+- . Descriptive statistics
+- . Data visualization techniques
+- . Feature engineering
+- . Correlation analysis
+- . Outlier detection
+- . Multi-variate analysis
+- . Insight generation
+- . Professional documentation
 
 ---
 
