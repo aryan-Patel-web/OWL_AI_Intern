@@ -11,7 +11,7 @@ seaborn>=0.12.0
 # Machine Learning Libraries (for Task 4)
 scikit-learn>=1.2.0
 
-# Jupyter Notebook (optional, for running notebooks)
+# Jupyter Notebook
 jupyter>=1.0.0
 notebook>=6.5.0
 
