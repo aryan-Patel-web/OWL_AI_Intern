@@ -535,8 +535,8 @@ Through this internship, I gained hands-on experience in:
 **Program:** B.Tech in Computer Science & Engineering  
 **Current Year:** 3rd Year (2023-2027 batch)  
 
-**GitHub:** [Repository Link]  
-**LinkedIn:** [To be added after posting]  
+**GitHub:** [https://github.com/aryan-Patel-web]  
+**LinkedIn:** [www.linkedin.com/in/aryan-patel-97396524b]  
 
 ### Connect With Me
 Feel free to reach out for:
