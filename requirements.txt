@@ -1,0 +1,27 @@
+# Requirements for OWLAI Internship Tasks 3 & 4
+# AI/ML Research Intern
+# Tasks: EDA and ML Model Comparison
+
+# Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Visualization Libraries
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Machine Learning Libraries (for Task 4)
+scikit-learn>=1.2.0
+
+# Jupyter Notebook (optional, for running notebooks)
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# Additional utilities
+ipykernel>=6.19.0
+
+# Optional: For better visualizations
+plotly>=5.11.0
+
+# Optional: For progress bars
+tqdm>=4.64.0
