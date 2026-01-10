@@ -21,8 +21,8 @@ The project demonstrates practical skills in data analysis, visualization, featu
 
 The internship required completion of at least 2 tasks from a list of 4 options. I chose to complete:
 
-- ✅ **Task 3:** Exploratory Data Analysis on Titanic Dataset
-- ✅ **Task 4:** Machine Learning Model Comparison (Logistic Regression vs Random Forest)
+- . **Task 3:** Exploratory Data Analysis on Titanic Dataset
+- . **Task 4:** Machine Learning Model Comparison (Logistic Regression vs Random Forest)
 
 Both tasks were selected to showcase end-to-end data science workflow - from initial data exploration to building production-ready ML models.
 
@@ -130,10 +130,10 @@ Perform comprehensive exploratory data analysis on the Titanic dataset to unders
 - **Visualizations Created:** 15+ charts including heatmaps, bar charts, histograms, box plots
 
 ### Deliverables
-- ✅ 34-cell Jupyter notebook with detailed analysis
-- ✅ Comprehensive README documentation
-- ✅ Multiple visualizations in outputs folder
-- ✅ Statistical summary and insights report
+- . 34-cell Jupyter notebook with detailed analysis
+- . Comprehensive README documentation
+- . Multiple visualizations in outputs folder
+- . Statistical summary and insights report
 
 ---
 
@@ -230,11 +230,11 @@ Evaluated both models using:
 - **Techniques:** Cross-validation, hyperparameter tuning, model evaluation
 
 ### Deliverables
-- ✅ 34-cell Jupyter notebook with complete ML pipeline
-- ✅ Comprehensive model comparison report
-- ✅ Performance visualizations (ROC curves, confusion matrices)
-- ✅ Feature importance analysis
-- ✅ Detailed README documentation
+- . 34-cell Jupyter notebook with complete ML pipeline
+- . Comprehensive model comparison report
+- . Performance visualizations (ROC curves, confusion matrices)
+- . Feature importance analysis
+- . Detailed README documentation
 
 ---
 
@@ -315,29 +315,29 @@ jupyter notebook
 ## 📈 Results & Achievements
 
 ### Task 3 Accomplishments
-✅ Analyzed 891 passenger records comprehensively  
-✅ Created 15+ insightful visualizations  
-✅ Identified key survival patterns and correlations  
-✅ Discovered gender as the strongest survival predictor  
-✅ Documented all findings with statistical backing  
+. Analyzed 891 passenger records comprehensively  
+. Created 15+ insightful visualizations  
+. Identified key survival patterns and correlations  
+. Discovered gender as the strongest survival predictor  
+. Documented all findings with statistical backing  
 
 ### Task 4 Accomplishments
-✅ Built and trained 2 complete ML models  
-✅ Achieved 82% accuracy with Random Forest  
-✅ Performed rigorous model evaluation and comparison  
-✅ Generated ROC curves and confusion matrices  
-✅ Implemented cross-validation for robust results  
-✅ Identified top 5 most important features  
+. Built and trained 2 complete ML models  
+. Achieved 82% accuracy with Random Forest  
+. Performed rigorous model evaluation and comparison  
+. Generated ROC curves and confusion matrices  
+. Implemented cross-validation for robust results  
+. Identified top 5 most important features  
 
 ### Skills Demonstrated
-- ✅ End-to-end data science workflow
-- ✅ Statistical analysis and hypothesis testing
-- ✅ Data preprocessing and feature engineering
-- ✅ Machine learning model development
-- ✅ Model evaluation and comparison
-- ✅ Data visualization and storytelling
-- ✅ Professional documentation
-- ✅ Code organization and best practices
+- . End-to-end data science workflow
+- . Statistical analysis and hypothesis testing
+- . Data preprocessing and feature engineering
+- . Machine learning model development
+- . Model evaluation and comparison
+- . Data visualization and storytelling
+- . Professional documentation
+- . Code organization and best practices
 
 ---
 
@@ -487,43 +487,43 @@ Through this internship, I gained hands-on experience in:
 
 ## 🎓 Internship Criteria & Compliance
 
-### Requirements Met ✅
+### Requirements Met .
 
 **Minimum Requirement:** Complete at least 2 tasks  
-**My Completion:** 2 tasks (Task 3 & Task 4) ✅
+**My Completion:** 2 tasks (Task 3 & Task 4) .
 
 **Task 3 Requirements:**
-- ✅ Perform EDA on publicly available dataset
-- ✅ Identify key data patterns
-- ✅ Create visualizations
-- ✅ Summarize findings in clear report
-- ✅ Upload to GitHub/Google Drive
-- ✅ LinkedIn post with photo/video
+- . Perform EDA on publicly available dataset
+- . Identify key data patterns
+- . Create visualizations
+- . Summarize findings in clear report
+- . Upload to GitHub/Google Drive
+- . LinkedIn post with photo/video
 
 **Task 4 Requirements:**
-- ✅ Build 2 machine learning models
-- ✅ Use same dataset for fair comparison
-- ✅ Evaluate with accuracy, precision, recall, F1-score
-- ✅ Upload code to GitHub/Google Drive
-- ✅ LinkedIn post with photo/video
+- . Build 2 machine learning models
+- . Use same dataset for fair comparison
+- . Evaluate with accuracy, precision, recall, F1-score
+- . Upload code to GitHub/Google Drive
+- . LinkedIn post with photo/video
 
-### Submission Components ✅
+### Submission Components .
 
-1. ✅ **GitHub Repository:** Complete code and documentation
-2. ✅ **README Files:** Comprehensive documentation for both tasks
-3. ✅ **Jupyter Notebooks:** Well-commented, executable code
-4. ✅ **Requirements.txt:** All dependencies listed
-5. ✅ **LinkedIn Posts:** Professional presentation (to be posted)
+1. . **GitHub Repository:** Complete code and documentation
+2. . **README Files:** Comprehensive documentation for both tasks
+3. . **Jupyter Notebooks:** Well-commented, executable code
+4. . **Requirements.txt:** All dependencies listed
+5. . **LinkedIn Posts:** Professional presentation (to be posted)
 
-### Quality Standards Met ✅
+### Quality Standards Met .
 
-- ✅ Clean, readable code with comments
-- ✅ Professional documentation
-- ✅ Reproducible results
-- ✅ Industry-standard practices
-- ✅ Comprehensive analysis
-- ✅ Clear visualizations
-- ✅ Actionable insights
+- . Clean, readable code with comments
+- . Professional documentation
+- . Reproducible results
+- . Industry-standard practices
+- . Comprehensive analysis
+- . Clear visualizations
+- . Actionable insights
 
 ---
 
@@ -576,7 +576,7 @@ This project is created for educational purposes as part of the OWLAI AI/ML Rese
 **Start Date:** January 8, 2026  
 **Completion Date:** January 10, 2026  
 **Total Duration:** 3 days  
-**Status:** ✅ Completed
+**Status:** . Completed
 
 ### Timeline Breakdown
 - **Day 1 (Jan 8):** Project setup, dataset download, initial exploration
@@ -595,9 +595,9 @@ This project represents a complete, professional-quality data science workflow f
 
 ---
 
-**Project Status:** ✅ COMPLETE  
-**Internship Requirement:** ✅ SATISFIED  
-**Ready for Submission:** ✅ YES  
+**Project Status:** . COMPLETE  
+**Internship Requirement:** . SATISFIED  
+**Ready for Submission:** . YES  
 
 ---
 
