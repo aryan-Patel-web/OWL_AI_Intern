@@ -49,6 +49,7 @@ OWL_AI_Intern_TASK/
     ├── readme.md                       # Detailed Task 4 documentation
     ├── train.csv                       # Titanic training dataset
     └── test.csv                        # Titanic test dataset
+    └── outputs/                        # Generated visualizations
 ```
 
 ---
